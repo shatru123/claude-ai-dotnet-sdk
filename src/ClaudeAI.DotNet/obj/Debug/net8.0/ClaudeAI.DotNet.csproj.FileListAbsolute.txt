@@ -1,0 +1,13 @@
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/bin/Debug/net8.0/ClaudeAI.DotNet.deps.json
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/bin/Debug/net8.0/ClaudeAI.DotNet.dll
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/bin/Debug/net8.0/ClaudeAI.DotNet.pdb
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ClaudeAI.DotNet.csproj.AssemblyReference.cache
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ClaudeAI.DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ClaudeAI.DotNet.AssemblyInfoInputs.cache
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ClaudeAI.DotNet.AssemblyInfo.cs
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ClaudeAI.DotNet.csproj.CoreCompileInputs.cache
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ClaudeAI.DotNet.sourcelink.json
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ClaudeAI.DotNet.dll
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/refint/ClaudeAI.DotNet.dll
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ClaudeAI.DotNet.pdb
+/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/Debug/net8.0/ref/ClaudeAI.DotNet.dll

@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/tests/ClaudeAI.DotNet.Tests/ClaudeAI.DotNet.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/ClaudeAI.DotNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/ClaudeAI.DotNet.csproj",
+        "projectName": "ClaudeAI.DotNet",
+        "projectPath": "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/ClaudeAI.DotNet.csproj",
+        "packagesPath": "/Users/shatrughnaambhore/.nuget/packages/",
+        "outputPath": "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shatrughnaambhore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/shatrughnaambhore/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/tests/ClaudeAI.DotNet.Tests/ClaudeAI.DotNet.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/tests/ClaudeAI.DotNet.Tests/ClaudeAI.DotNet.Tests.csproj",
+        "projectName": "ClaudeAI.DotNet.Tests",
+        "projectPath": "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/tests/ClaudeAI.DotNet.Tests/ClaudeAI.DotNet.Tests.csproj",
+        "packagesPath": "/Users/shatrughnaambhore/.nuget/packages/",
+        "outputPath": "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/tests/ClaudeAI.DotNet.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/shatrughnaambhore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/ClaudeAI.DotNet.csproj": {
+                "projectPath": "/Users/shatrughnaambhore/Shatru/Learning/Projects/claude-ai-dotnet-sdk/src/ClaudeAI.DotNet/ClaudeAI.DotNet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.69, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/shatrughnaambhore/.dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
