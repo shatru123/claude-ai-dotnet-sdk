@@ -1,0 +1,86 @@
+# ── Build Output ────────────────────────────────────────────
+bin/
+obj/
+out/
+artifacts/
+
+# ── .NET ────────────────────────────────────────────────────
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ── NuGet ───────────────────────────────────────────────────
+*.nupkg
+*.snupkg
+.nuget/
+nuget.config
+packages/
+!**/packages/repositories.config
+
+# ── Visual Studio ────────────────────────────────────────────
+.vs/
+*.rsuser
+*.vsp
+*.vspx
+*.sap
+*.ncb
+*.aps
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# ── Rider ────────────────────────────────────────────────────
+.idea/
+*.sln.iml
+
+# ── VS Code ──────────────────────────────────────────────────
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ── Test Results ─────────────────────────────────────────────
+TestResults/
+coverage/
+*.trx
+*.coveragexml
+*.coverage
+lcov.info
+
+# ── Secrets & Config ─────────────────────────────────────────
+appsettings.Development.json
+appsettings.Local.json
+*.env
+.env
+secrets.json
+
+# ── OS ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Publish Output ───────────────────────────────────────────
+publish/
+**/Properties/PublishProfiles/

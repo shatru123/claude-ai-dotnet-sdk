@@ -264,4 +264,4 @@ If ClaudeAI.DotNet saves you time, **please give it a star** — it helps the pr
 
 ---
 
-Built with ❤️ by [CompileCare](https://github.com/compilecare) | Pune, India 🇮🇳
+Built with ❤️ by [Shatrughna](https://github.com/shatru123) | Pune, India 🇮🇳

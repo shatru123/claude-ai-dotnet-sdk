@@ -37,7 +37,7 @@ Happy to provide any additional information. Thanks for the great newsletter!
 
 Best,  
 Shatrughna  
-CompileCare | github.com/compilecare
+github.com/shatru123
 
 ---
 
@@ -58,7 +58,7 @@ It's the missing Claude SDK for .NET developers — install via `dotnet add pack
 
 Thanks for your consideration!
 
-Shatrughna | CompileCare
+Shatrughna 
 
 ---
 
